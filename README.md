@@ -64,3 +64,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
+Buenas tardes, el proyecto está creado en laravel 10, con boostrap 5, todas las migraciones están creadas, con sus respectivas relaciones.
+
+Se ha creado un proyecto aparte de back. El front sólo consume un método, no me alcanzo el tiempo para hacer todas las especificaciones del api.
+
